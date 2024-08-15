@@ -5,7 +5,7 @@ class Main {
         double z = 10000;
         boolean b = true;
         boolean i = false; 
-         System.out.print("hola zelaya te qleo");
+         System.out.print("hola mundo");
          
 
     }
